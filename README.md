@@ -26,6 +26,7 @@
   
 
 ## DEPLOY IN HEROKU 
+<a href='https://railway.app/new/template/sRBrec' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY RAILWAY -h?color=blue&style=for-the-badge&logo=railway'/></a>
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Darkshenuwaofficial/QUEEN-SANU-V1/)
 
